@@ -34,5 +34,6 @@ Este projeto foi criado com o objetivo de praticar lógica de programação, fun
 ## Como executar o projeto
 
 1. Clone este repositório:
-
+```
 git clone https://github.com/eduardohlcc/Restaurante-Python.git
+```
